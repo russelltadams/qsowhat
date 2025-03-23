@@ -1,0 +1,18 @@
+[
+    {
+        "call": "AC9HP",
+        "gridsquare": "EM69",
+        "mode": "FT8",
+        "rst_sent": -21,
+        "rst_rcvd": -14,
+        "qso_date": "2025-03-13",
+        "time_on": "08:48:00",
+        "qso_date_off": "2025-03-13",
+        "time_off": "0849-05-09",
+        "band": "40m",
+        "freq": 7.076613,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -21  Rcvd: -14  Distance: 1894 mi"
+    }
+]

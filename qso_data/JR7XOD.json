@@ -1,0 +1,18 @@
+[
+    {
+        "call": "JR7XOD",
+        "gridsquare": "QM07",
+        "mode": "FT8",
+        "rst_sent": 3,
+        "rst_rcvd": 2,
+        "qso_date": "2024-09-13",
+        "time_on": "06:06:53",
+        "qso_date_off": "2024-09-13",
+        "time_off": "0607-05-09",
+        "band": "20m",
+        "freq": 14.07513,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: +03  Rcvd: +02  Distance: 5030 mi"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "call": "W4UAT",
+        "gridsquare": "CM97",
+        "mode": "FT8",
+        "rst_sent": -22,
+        "rst_rcvd": -8,
+        "qso_date": "2024-07-17",
+        "time_on": "23:06:15",
+        "qso_date_off": "2024-07-17",
+        "time_off": "2307-02-09",
+        "band": "10m",
+        "freq": 28.075776,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "tx_pwr": "5w"
+    }
+]

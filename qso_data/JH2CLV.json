@@ -1,0 +1,18 @@
+[
+    {
+        "call": "JH2CLV",
+        "gridsquare": "",
+        "mode": "FT8",
+        "rst_sent": -3,
+        "rst_rcvd": -14,
+        "qso_date": "2024-10-15",
+        "time_on": "08:42:15",
+        "qso_date_off": "2024-10-15",
+        "time_off": "0843-01-04",
+        "band": "30m",
+        "freq": 10.137761,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -03  Rcvd: -14  Distance: "
+    }
+]

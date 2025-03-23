@@ -1,0 +1,18 @@
+[
+    {
+        "call": "ZL3TE",
+        "gridsquare": "RF73",
+        "mode": "FT8",
+        "rst_sent": -26,
+        "rst_rcvd": -1,
+        "qso_date": "2024-08-04",
+        "time_on": "23:00:53",
+        "qso_date_off": "2024-08-04",
+        "time_off": "2307-02-09",
+        "band": "10m",
+        "freq": 28.076128,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -26  Rcvd: -01  Distance: 6502 mi"
+    }
+]

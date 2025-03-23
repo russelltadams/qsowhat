@@ -1,0 +1,18 @@
+[
+    {
+        "call": "AG5PC",
+        "gridsquare": "EM12",
+        "mode": "FT8",
+        "rst_sent": -13,
+        "rst_rcvd": -9,
+        "qso_date": "2024-09-14",
+        "time_on": "00:33:15",
+        "qso_date_off": "2024-09-14",
+        "time_off": "0034-01-04",
+        "band": "20m",
+        "freq": 14.07504,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -13  Rcvd: -09  Distance: 1467 mi"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "call": "JJ2HCM",
+        "gridsquare": "PM85",
+        "mode": "FT8",
+        "rst_sent": -3,
+        "rst_rcvd": -2,
+        "qso_date": "2024-08-30",
+        "time_on": "08:07:00",
+        "qso_date_off": "2024-08-30",
+        "time_off": "0809-02-09",
+        "band": "20m",
+        "freq": 14.075007,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -03  Rcvd: -02  Distance: 5292 mi"
+    },
+    {
+        "call": "JJ2HCM",
+        "gridsquare": "PM85",
+        "mode": "FT8",
+        "rst_sent": -3,
+        "rst_rcvd": -9,
+        "qso_date": "2024-09-02",
+        "time_on": "05:49:15",
+        "qso_date_off": "2024-09-02",
+        "time_off": "0550-01-04",
+        "band": "17m",
+        "freq": 18.1016,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -03  Rcvd: -09  Distance: 5292 mi"
+    }
+]

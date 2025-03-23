@@ -1,0 +1,18 @@
+[
+    {
+        "call": "JL1UGN",
+        "gridsquare": "PM95",
+        "mode": "FT8",
+        "rst_sent": -19,
+        "rst_rcvd": -15,
+        "qso_date": "2024-10-25",
+        "time_on": "05:50:30",
+        "qso_date_off": "2024-10-25",
+        "time_off": "0551-04-04",
+        "band": "20m",
+        "freq": 14.075234,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -19  Rcvd: -15  Distance: 5201 mi"
+    }
+]

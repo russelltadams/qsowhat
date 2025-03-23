@@ -1,0 +1,18 @@
+[
+    {
+        "call": "CX1RL",
+        "gridsquare": "GF25",
+        "mode": "FT8",
+        "rst_sent": -10,
+        "rst_rcvd": -16,
+        "qso_date": "2024-09-13",
+        "time_on": "07:49:15",
+        "qso_date_off": "2024-09-13",
+        "time_off": "0750-02-09",
+        "band": "30m",
+        "freq": 10.137341,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -10  Rcvd: -16  Distance: 6582 mi"
+    }
+]

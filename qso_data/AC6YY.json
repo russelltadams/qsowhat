@@ -1,0 +1,18 @@
+[
+    {
+        "call": "AC6YY",
+        "gridsquare": "CM97",
+        "mode": "FT8",
+        "rst_sent": -8,
+        "rst_rcvd": -8,
+        "qso_date": "2024-08-17",
+        "time_on": "19:37:00",
+        "qso_date_off": "2024-08-17",
+        "time_off": "1940-05-09",
+        "band": "10m",
+        "freq": 28.075776,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -08  Rcvd: -08  Distance: 68 mi"
+    }
+]

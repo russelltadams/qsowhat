@@ -1,0 +1,18 @@
+[
+    {
+        "call": "XE1UYS",
+        "gridsquare": "EK19",
+        "mode": "FT8",
+        "rst_sent": -23,
+        "rst_rcvd": -4,
+        "qso_date": "2024-09-26",
+        "time_on": "20:00:15",
+        "qso_date_off": "2024-09-26",
+        "time_off": "2002-02-09",
+        "band": "17m",
+        "freq": 18.102502,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -23  Rcvd: -04  Distance: 1971 mi"
+    }
+]

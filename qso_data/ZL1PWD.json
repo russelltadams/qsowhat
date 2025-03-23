@@ -1,0 +1,34 @@
+[
+    {
+        "call": "ZL1PWD",
+        "gridsquare": "RF74",
+        "mode": "FT8",
+        "rst_sent": -16,
+        "rst_rcvd": -14,
+        "qso_date": "2024-08-04",
+        "time_on": "02:47:43",
+        "qso_date_off": "2024-08-04",
+        "time_off": "0248-04-04",
+        "band": "10m",
+        "freq": 28.075031,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -16  Rcvd: -14  Distance: 6453 mi"
+    },
+    {
+        "call": "ZL1PWD",
+        "gridsquare": "RF74",
+        "mode": "FT8",
+        "rst_sent": -18,
+        "rst_rcvd": -3,
+        "qso_date": "2025-03-13",
+        "time_on": "04:14:15",
+        "qso_date_off": "2025-03-13",
+        "time_off": "0414-05-09",
+        "band": "20m",
+        "freq": 14.075193,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -18  Rcvd: -03  Distance: 6453 mi"
+    }
+]

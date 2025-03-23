@@ -1,0 +1,18 @@
+[
+    {
+        "call": "JA6NQT",
+        "gridsquare": "PM53",
+        "mode": "FT8",
+        "rst_sent": -13,
+        "rst_rcvd": -3,
+        "qso_date": "2025-03-15",
+        "time_on": "23:06:00",
+        "qso_date_off": "2025-03-15",
+        "time_off": "2306-05-09",
+        "band": "10m",
+        "freq": 28.075386,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -13  Rcvd: -03  Distance: 5645 mi"
+    }
+]

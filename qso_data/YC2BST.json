@@ -1,0 +1,18 @@
+[
+    {
+        "call": "YC2BST",
+        "gridsquare": "OI52",
+        "mode": "FT8",
+        "rst_sent": -13,
+        "rst_rcvd": -13,
+        "qso_date": "2024-08-20",
+        "time_on": "22:41:30",
+        "qso_date_off": "2024-08-20",
+        "time_off": "2242-02-09",
+        "band": "15m",
+        "freq": 21.075776,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -13  Rcvd: -13  Distance: 8527 mi"
+    }
+]

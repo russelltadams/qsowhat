@@ -1,0 +1,18 @@
+[
+    {
+        "call": "VK4DAD",
+        "gridsquare": "QG62",
+        "mode": "FT8",
+        "rst_sent": -10,
+        "rst_rcvd": -12,
+        "qso_date": "2024-07-13",
+        "time_on": "21:54:01",
+        "qso_date_off": "2024-07-13",
+        "time_off": "2155-01-04",
+        "band": "10m",
+        "freq": 28.075776,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vu",
+        "comment": "FT8  Sent: -10  Rcvd: -12  Distance: 7092 mi"
+    }
+]

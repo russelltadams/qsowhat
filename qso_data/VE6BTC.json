@@ -1,0 +1,18 @@
+[
+    {
+        "call": "VE6BTC",
+        "gridsquare": "DO33",
+        "mode": "FT8",
+        "rst_sent": -4,
+        "rst_rcvd": -14,
+        "qso_date": "2024-10-25",
+        "time_on": "01:23:30",
+        "qso_date_off": "2024-10-25",
+        "time_off": "0124-02-09",
+        "band": "20m",
+        "freq": 14.075651,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -04  Rcvd: -14  Distance: 1167 mi"
+    }
+]

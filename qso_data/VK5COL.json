@@ -1,0 +1,34 @@
+[
+    {
+        "call": "VK5COL",
+        "gridsquare": "PF84",
+        "mode": "FT8",
+        "rst_sent": -20,
+        "rst_rcvd": -10,
+        "qso_date": "2024-08-16",
+        "time_on": "00:17:15",
+        "qso_date_off": "2024-08-16",
+        "time_off": "0018-01-04",
+        "band": "10m",
+        "freq": 28.075776,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -20  Rcvd: -10  Distance: 8181 mi"
+    },
+    {
+        "call": "VK5COL",
+        "gridsquare": "PF84",
+        "mode": "FT8",
+        "rst_sent": -18,
+        "rst_rcvd": -16,
+        "qso_date": "2024-08-19",
+        "time_on": "05:08:45",
+        "qso_date_off": "2024-08-19",
+        "time_off": "0510-02-09",
+        "band": "15m",
+        "freq": 21.074666,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -18  Rcvd: -16  Distance: 8181 mi"
+    }
+]

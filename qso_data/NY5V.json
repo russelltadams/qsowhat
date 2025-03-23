@@ -1,0 +1,18 @@
+[
+    {
+        "call": "NY5V",
+        "gridsquare": "",
+        "mode": "FT8",
+        "rst_sent": -24,
+        "rst_rcvd": -8,
+        "qso_date": "2025-03-11",
+        "time_on": "07:49:45",
+        "qso_date_off": "2025-03-11",
+        "time_off": "0751-01-04",
+        "band": "80m",
+        "freq": 3.575731,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -24  Rcvd: -08  Distance: "
+    }
+]

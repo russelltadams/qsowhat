@@ -1,0 +1,18 @@
+[
+    {
+        "call": "JH7AUL",
+        "gridsquare": "QM07",
+        "mode": "FT8",
+        "rst_sent": -12,
+        "rst_rcvd": -12,
+        "qso_date": "2024-09-10",
+        "time_on": "23:50:45",
+        "qso_date_off": "2024-09-10",
+        "time_off": "2351-04-04",
+        "band": "10m",
+        "freq": 28.0752,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -12  Rcvd: -12  Distance: 5030 mi"
+    }
+]

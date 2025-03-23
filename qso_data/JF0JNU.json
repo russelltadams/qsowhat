@@ -1,0 +1,19 @@
+[
+    {
+        "call": "JF0JNU",
+        "gridsquare": "PM97",
+        "mode": "MFSK",
+        "submode": "FT4",
+        "rst_sent": -14,
+        "rst_rcvd": 3,
+        "qso_date": "2024-10-11",
+        "time_on": "22:42:37",
+        "qso_date_off": "2024-10-11",
+        "time_off": "2243-01-04",
+        "band": "10m",
+        "freq": 28.18042,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT4  Sent: -14  Rcvd: +03  Distance: 5120 mi"
+    }
+]

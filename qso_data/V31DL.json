@@ -1,0 +1,18 @@
+[
+    {
+        "call": "V31DL",
+        "gridsquare": "EK57",
+        "mode": "FT8",
+        "rst_sent": 1,
+        "rst_rcvd": -3,
+        "qso_date": "2025-03-13",
+        "time_on": "04:16:00",
+        "qso_date_off": "2025-03-13",
+        "time_off": "0416-05-09",
+        "band": "20m",
+        "freq": 14.075589,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: +01  Rcvd: -03  Distance: 2448 mi"
+    }
+]

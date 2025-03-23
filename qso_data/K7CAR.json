@@ -1,0 +1,51 @@
+[
+    {
+        "call": "K7CAR",
+        "gridsquare": "DM37",
+        "mode": "FT8",
+        "rst_sent": -11,
+        "rst_rcvd": -22,
+        "qso_date": "2024-09-01",
+        "time_on": "07:26:45",
+        "qso_date_off": "2024-09-01",
+        "time_off": "0727-05-09",
+        "band": "40m",
+        "freq": 7.07599,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -11  Rcvd: -22  Distance: 503 mi"
+    },
+    {
+        "call": "K7CAR",
+        "gridsquare": "DM37",
+        "mode": "FT8",
+        "rst_sent": 3,
+        "rst_rcvd": 1,
+        "qso_date": "2024-09-13",
+        "time_on": "21:07:15",
+        "qso_date_off": "2024-09-13",
+        "time_off": "2108-02-09",
+        "band": "20m",
+        "freq": 14.075776,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: +03  Rcvd: +01  Distance: 503 mi"
+    },
+    {
+        "call": "K7CAR",
+        "gridsquare": "DM37",
+        "mode": "MFSK",
+        "submode": "FT4",
+        "rst_sent": 19,
+        "rst_rcvd": 10,
+        "qso_date": "2024-10-16",
+        "time_on": "00:11:07",
+        "qso_date_off": "2024-10-16",
+        "time_off": "0011-04-04",
+        "band": "20m",
+        "freq": 14.081494,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT4  Sent: +19  Rcvd: +10  Distance: 503 mi"
+    }
+]

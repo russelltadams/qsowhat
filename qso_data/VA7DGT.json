@@ -1,0 +1,18 @@
+[
+    {
+        "call": "VA7DGT",
+        "gridsquare": "CN89",
+        "mode": "FT8",
+        "rst_sent": -11,
+        "rst_rcvd": 2,
+        "qso_date": "2024-09-14",
+        "time_on": "00:17:45",
+        "qso_date_off": "2024-09-14",
+        "time_off": "0018-02-09",
+        "band": "20m",
+        "freq": 14.075776,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -11  Rcvd: +02  Distance: 807 mi"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "call": "VO1DNK",
+        "gridsquare": "",
+        "mode": "FT8",
+        "rst_sent": -10,
+        "rst_rcvd": -21,
+        "qso_date": "2024-09-11",
+        "time_on": "07:07:15",
+        "qso_date_off": "2024-09-11",
+        "time_off": "0709-04-04",
+        "band": "40m",
+        "freq": 7.074729,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -10  Rcvd: -21  Distance: "
+    }
+]

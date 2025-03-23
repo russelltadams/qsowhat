@@ -1,0 +1,18 @@
+[
+    {
+        "call": "JE1JIM",
+        "gridsquare": "PM95",
+        "mode": "FT8",
+        "rst_sent": -20,
+        "rst_rcvd": -15,
+        "qso_date": "2025-03-16",
+        "time_on": "01:19:00",
+        "qso_date_off": "2025-03-16",
+        "time_off": "0120-01-04",
+        "band": "10m",
+        "freq": 28.074804,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -20  Rcvd: -15  Distance: 5201 mi"
+    }
+]

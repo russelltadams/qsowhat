@@ -1,0 +1,34 @@
+[
+    {
+        "call": "OA4DYO",
+        "gridsquare": "FH18",
+        "mode": "FT8",
+        "rst_sent": -4,
+        "rst_rcvd": -7,
+        "qso_date": "2024-09-02",
+        "time_on": "05:55:35",
+        "qso_date_off": "2024-09-02",
+        "time_off": "0556-04-04",
+        "band": "30m",
+        "freq": 10.1376,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -04  Rcvd: -07  Distance: 4479 mi"
+    },
+    {
+        "call": "OA4DYO",
+        "gridsquare": "FH18",
+        "mode": "FT8",
+        "rst_sent": -10,
+        "rst_rcvd": -13,
+        "qso_date": "2024-09-13",
+        "time_on": "06:40:33",
+        "qso_date_off": "2024-09-13",
+        "time_off": "0641-04-04",
+        "band": "40m",
+        "freq": 7.07513,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -10  Rcvd: -13  Distance: 4479 mi"
+    }
+]

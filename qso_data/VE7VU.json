@@ -1,0 +1,18 @@
+[
+    {
+        "call": "VE7VU",
+        "gridsquare": "DN29",
+        "mode": "FT8",
+        "rst_sent": -22,
+        "rst_rcvd": -20,
+        "qso_date": "2024-07-18",
+        "time_on": "17:24:00",
+        "qso_date_off": "2024-07-18",
+        "time_off": "1729-04-05",
+        "band": "10m",
+        "freq": 28.075776,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -22  Rcvd: -20  Distance: 881 mi"
+    }
+]

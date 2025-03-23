@@ -1,0 +1,18 @@
+[
+    {
+        "call": "K3QB",
+        "gridsquare": "CN87",
+        "mode": "FT8",
+        "rst_sent": 1,
+        "rst_rcvd": 1,
+        "qso_date": "2024-10-20",
+        "time_on": "06:32:45",
+        "qso_date_off": "2024-10-20",
+        "time_off": "0633-04-04",
+        "band": "40m",
+        "freq": 7.075651,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: +01  Rcvd: +01  Distance: 669 mi"
+    }
+]

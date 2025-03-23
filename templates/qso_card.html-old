@@ -1,0 +1,26 @@
+<div class="qso-card">
+  <h2 class="callsign">Callsign: <span id="qso-callsign"></span></h2>
+  <div class="qso-details">
+    <div class="qso-section">
+      <h3>Date and Time</h3>
+      <p>Date: <span id="qso-date"></span></p>
+      <p>Time: <span id="qso-time"></span></p>
+    </div>
+    <div class="qso-section">
+      <h3>Frequency and Band</h3>
+      <p>Frequency: <span id="qso-frequency"></span></p>
+      <p>Band: <span id="qso-band"></span></p>
+    </div>
+    <div class="qso-section">
+      <h3>Mode and Reports</h3>
+      <p>Mode: <span id="qso-mode"></span></p>
+      <p>RST Sent: <span id="qso-rst-sent"></span></p>
+      <p>RST Received: <span id="qso-rst-received"></span></p>
+    </div>
+    <div class="qso-section">
+      <h3>Gridsquare</h3>
+      <p>Gridsquare: <span id="qso-gridsquare"></span></p>
+    </div>
+  </div>
+</div>
+

@@ -1,0 +1,18 @@
+[
+    {
+        "call": "WB8SCG",
+        "gridsquare": "FM16",
+        "mode": "FT8",
+        "rst_sent": -8,
+        "rst_rcvd": -15,
+        "qso_date": "2024-09-13",
+        "time_on": "06:18:00",
+        "qso_date_off": "2024-09-13",
+        "time_off": "0618-05-09",
+        "band": "40m",
+        "freq": 7.07513,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -08  Rcvd: -15  Distance: 2471 mi"
+    }
+]

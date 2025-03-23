@@ -1,0 +1,18 @@
+[
+    {
+        "call": "E51WLG",
+        "gridsquare": "BG08",
+        "mode": "FT8",
+        "rst_sent": -11,
+        "rst_rcvd": -14,
+        "qso_date": "2024-09-05",
+        "time_on": "07:37:04",
+        "qso_date_off": "2024-09-05",
+        "time_off": "0738-01-04",
+        "band": "40m",
+        "freq": 7.075373,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -11  Rcvd: -14  Distance: 4732 mi"
+    }
+]

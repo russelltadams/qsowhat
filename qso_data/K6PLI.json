@@ -1,0 +1,18 @@
+[
+    {
+        "call": "K6PLI",
+        "gridsquare": "CM87",
+        "mode": "FT8",
+        "rst_sent": 2,
+        "rst_rcvd": 15,
+        "qso_date": "2024-07-14",
+        "time_on": "23:27:00",
+        "qso_date_off": "2024-07-14",
+        "time_off": "2328-01-04",
+        "band": "10m",
+        "freq": 28.075333,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vu",
+        "comment": "FT8  Sent: +02  Rcvd: +15  Distance: 52 mi"
+    }
+]

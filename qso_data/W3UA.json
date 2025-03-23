@@ -1,0 +1,18 @@
+[
+    {
+        "call": "W3UA",
+        "gridsquare": "FN42",
+        "mode": "FT8",
+        "rst_sent": -12,
+        "rst_rcvd": -24,
+        "qso_date": "2024-09-01",
+        "time_on": "07:15:19",
+        "qso_date_off": "2024-09-01",
+        "time_off": "0716-02-09",
+        "band": "30m",
+        "freq": 10.13799,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -12  Rcvd: -24  Distance: 2687 mi"
+    }
+]

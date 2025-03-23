@@ -1,0 +1,18 @@
+[
+    {
+        "call": "LU6XQB",
+        "gridsquare": "FD66",
+        "mode": "FT8",
+        "rst_sent": -15,
+        "rst_rcvd": -16,
+        "qso_date": "2025-03-11",
+        "time_on": "01:44:45",
+        "qso_date_off": "2025-03-11",
+        "time_off": "0146-02-09",
+        "band": "20m",
+        "freq": 14.07597,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -15  Rcvd: -16  Distance: 7098 mi"
+    }
+]

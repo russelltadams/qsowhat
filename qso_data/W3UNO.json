@@ -1,0 +1,19 @@
+[
+    {
+        "call": "W3UNO",
+        "gridsquare": "DM04",
+        "mode": "MFSK",
+        "submode": "FT4",
+        "rst_sent": 10,
+        "rst_rcvd": 4,
+        "qso_date": "2024-10-15",
+        "time_on": "05:16:40",
+        "qso_date_off": "2024-10-15",
+        "time_off": "0517-01-04",
+        "band": "40m",
+        "freq": 7.049001,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT4  Sent: +10  Rcvd: +04  Distance: 290 mi"
+    }
+]

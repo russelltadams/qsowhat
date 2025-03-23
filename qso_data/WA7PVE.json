@@ -1,0 +1,18 @@
+[
+    {
+        "call": "WA7PVE",
+        "gridsquare": "CN87",
+        "mode": "FT8",
+        "rst_sent": -12,
+        "rst_rcvd": -10,
+        "qso_date": "2024-07-18",
+        "time_on": "18:23:20",
+        "qso_date_off": "2024-07-18",
+        "time_off": "1824-02-09",
+        "band": "10m",
+        "freq": 28.075776,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -12  Rcvd: -10  Distance: 669 mi"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "call": "K6JAV",
+        "gridsquare": "DM34",
+        "mode": "FT8",
+        "rst_sent": 0,
+        "rst_rcvd": 5,
+        "qso_date": "2024-09-02",
+        "time_on": "06:10:00",
+        "qso_date_off": "2024-09-02",
+        "time_off": "0610-05-09",
+        "band": "40m",
+        "freq": 7.076021,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: +00  Rcvd: +05  Distance: 561 mi"
+    }
+]

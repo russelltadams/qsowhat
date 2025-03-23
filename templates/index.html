@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>QSO Card Generator</title>
+    <style>
+        /* Basic styling for demonstration */
+        body { font-family: sans-serif; }
+        .container { max-width: 800px; margin: 20px auto; padding: 20px; border: 1px solid #ccc; border-radius: 5px; }
+        form { margin-bottom: 20px; }
+        table { width: 100%; border-collapse: collapse; margin-bottom: 20px; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f0f0f0; }
+        .qso_card_link {
+            display: inline-block;
+            padding: 10px 15px;
+            background-color: #4CAF50;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 5px;
+        }
+        .qso_card_button {
+            display: inline-block;
+            padding: 10px 15px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-top: 5px;
+        }
+        .qso_card_button:hover {
+             background-color: #0056b3;
+        }
+        .error { color: red; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>QSO Card Generator</h1>
+        <form method="POST">
+            <label for="callsign">Enter Your Callsign:</label>
+            <input type="text" id="callsign" name="callsign" required>
+            <button type="submit">Search</button>
+        </form>
+
+        {% if error_message %}
+            <p class="error">{{ error_message }}</p>
+        {% endif %}
+
+        {% if callsign and log_data %}
+            <h2>Contacts for {{ callsign }}</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Callsign</th>
+                        <th>Date</th>
+                        <th>Time</th>
+                        <th>Mode</th>
+                        <th>Band</th>
+                        <th>QSO Card</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for contact in log_data %}
+                        <tr>
+                            <td>{{ contact.call }}</td>
+                            <td>{{ contact.qso_date }}</td>
+                            <td>{{ contact.time_on }}</td>
+                            <td>{{ contact.mode }}</td>
+                            <td>{{ contact.band }}</td>
+                            <td>
+                                {% if contact.qso_card_url %}
+                                    <a href="{{ contact.qso_card_url }}" class="qso_card_link" target="_blank">View QSO Card</a>
+                                {% else %}
+                                    <a href="/qso_card/{{ callsign }}/{{ loop.index0 }}" class="qso_card_button">Generate QSO Card</a>
+                                {% endif %}
+                            </td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        {% endif %}
+    </div>
+</body>
+</html>

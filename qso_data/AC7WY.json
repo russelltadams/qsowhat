@@ -1,0 +1,18 @@
+[
+    {
+        "call": "AC7WY",
+        "gridsquare": "DN61",
+        "mode": "FT8",
+        "rst_sent": -2,
+        "rst_rcvd": 8,
+        "qso_date": "2025-03-11",
+        "time_on": "06:58:45",
+        "qso_date_off": "2025-03-11",
+        "time_off": "0659-04-04",
+        "band": "40m",
+        "freq": 7.075709,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -02  Rcvd: +08  Distance: 846 mi"
+    }
+]

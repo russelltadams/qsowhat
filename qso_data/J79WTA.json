@@ -1,0 +1,18 @@
+[
+    {
+        "call": "J79WTA",
+        "gridsquare": "FK95",
+        "mode": "FT8",
+        "rst_sent": -3,
+        "rst_rcvd": -13,
+        "qso_date": "2025-03-13",
+        "time_on": "03:49:18",
+        "qso_date_off": "2025-03-13",
+        "time_off": "0350-02-09",
+        "band": "20m",
+        "freq": 14.076096,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -03  Rcvd: -13  Distance: 4007 mi"
+    }
+]

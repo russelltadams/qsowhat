@@ -1,0 +1,18 @@
+[
+    {
+        "call": "YC8USA",
+        "gridsquare": "PJ20",
+        "mode": "FT8",
+        "rst_sent": -7,
+        "rst_rcvd": -15,
+        "qso_date": "2024-08-24",
+        "time_on": "15:40:45",
+        "qso_date_off": "2024-08-24",
+        "time_off": "1542-02-09",
+        "band": "20m",
+        "freq": 14.075776,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -07  Rcvd: -15  Distance: 7436 mi"
+    }
+]

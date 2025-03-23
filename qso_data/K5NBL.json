@@ -1,0 +1,18 @@
+[
+    {
+        "call": "K5NBL",
+        "gridsquare": "EM34",
+        "mode": "FT8",
+        "rst_sent": -13,
+        "rst_rcvd": -21,
+        "qso_date": "2024-10-15",
+        "time_on": "06:38:45",
+        "qso_date_off": "2024-10-15",
+        "time_off": "0639-05-09",
+        "band": "40m",
+        "freq": 7.074432,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -13  Rcvd: -21  Distance: 1640 mi"
+    }
+]

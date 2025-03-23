@@ -1,0 +1,18 @@
+[
+    {
+        "call": "JG8IAF",
+        "gridsquare": "QN02",
+        "mode": "FT8",
+        "rst_sent": -8,
+        "rst_rcvd": -14,
+        "qso_date": "2024-10-31",
+        "time_on": "07:20:30",
+        "qso_date_off": "2024-10-31",
+        "time_off": "0721-04-04",
+        "band": "30m",
+        "freq": 10.136414,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -08  Rcvd: -14  Distance: 4837 mi"
+    }
+]

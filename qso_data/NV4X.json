@@ -1,0 +1,18 @@
+[
+    {
+        "call": "NV4X",
+        "gridsquare": "EM77",
+        "mode": "FT8",
+        "rst_sent": -6,
+        "rst_rcvd": -11,
+        "qso_date": "2024-09-02",
+        "time_on": "08:23:45",
+        "qso_date_off": "2024-09-02",
+        "time_off": "0824-05-09",
+        "band": "40m",
+        "freq": 7.075709,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -06  Rcvd: -11  Distance: 2025 mi"
+    }
+]

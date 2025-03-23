@@ -1,0 +1,18 @@
+[
+    {
+        "call": "JP1WAN",
+        "gridsquare": "PM95",
+        "mode": "FT8",
+        "rst_sent": -22,
+        "rst_rcvd": -19,
+        "qso_date": "2024-10-05",
+        "time_on": "07:41:00",
+        "qso_date_off": "2024-10-05",
+        "time_off": "0742-01-04",
+        "band": "20m",
+        "freq": 14.074863,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -22  Rcvd: -19  Distance: 5201 mi"
+    }
+]

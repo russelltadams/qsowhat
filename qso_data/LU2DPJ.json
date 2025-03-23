@@ -1,0 +1,18 @@
+[
+    {
+        "call": "LU2DPJ",
+        "gridsquare": "GF05",
+        "mode": "FT8",
+        "rst_sent": -18,
+        "rst_rcvd": -20,
+        "qso_date": "2024-10-25",
+        "time_on": "01:31:30",
+        "qso_date_off": "2024-10-25",
+        "time_off": "0133-01-04",
+        "band": "20m",
+        "freq": 14.075977,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -18  Rcvd: -20  Distance: 6418 mi"
+    }
+]

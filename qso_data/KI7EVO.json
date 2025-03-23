@@ -1,0 +1,18 @@
+[
+    {
+        "call": "KI7EVO",
+        "gridsquare": "DN06",
+        "mode": "FT8",
+        "rst_sent": -15,
+        "rst_rcvd": -9,
+        "qso_date": "2024-07-16",
+        "time_on": "20:05:00",
+        "qso_date_off": "2024-07-16",
+        "time_off": "2005-05-09",
+        "band": "10m",
+        "freq": 28.074999,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vu",
+        "comment": "FT8  Sent: -15  Rcvd: -09  Distance: 617 mi"
+    }
+]

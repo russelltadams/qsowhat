@@ -1,0 +1,18 @@
+[
+    {
+        "call": "W6OAT",
+        "gridsquare": "",
+        "mode": "FT8",
+        "rst_sent": 0,
+        "rst_rcvd": 5,
+        "qso_date": "2024-09-03",
+        "time_on": "04:45:15",
+        "qso_date_off": "2024-09-03",
+        "time_off": "0446-01-04",
+        "band": "60m",
+        "freq": 5.35801,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: +00  Rcvd: +05  Distance: "
+    }
+]

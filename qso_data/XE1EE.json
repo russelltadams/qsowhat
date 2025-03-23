@@ -1,0 +1,18 @@
+[
+    {
+        "call": "XE1EE",
+        "gridsquare": "DL90",
+        "mode": "FT8",
+        "rst_sent": -6,
+        "rst_rcvd": -14,
+        "qso_date": "2024-07-23",
+        "time_on": "23:43:15",
+        "qso_date_off": "2024-07-23",
+        "time_off": "2344-02-09",
+        "band": "10m",
+        "freq": 28.075776,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -06  Rcvd: -14  Distance: 1742 mi"
+    }
+]

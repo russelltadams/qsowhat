@@ -1,0 +1,18 @@
+[
+    {
+        "call": "XE2YWH",
+        "gridsquare": "DL92",
+        "mode": "FT8",
+        "rst_sent": -9,
+        "rst_rcvd": -15,
+        "qso_date": "2024-09-26",
+        "time_on": "18:52:45",
+        "qso_date_off": "2024-09-26",
+        "time_off": "1853-05-09",
+        "band": "17m",
+        "freq": 18.101415,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -09  Rcvd: -15  Distance: 1642 mi"
+    }
+]

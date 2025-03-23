@@ -1,0 +1,18 @@
+[
+    {
+        "call": "JA2XTV",
+        "gridsquare": "",
+        "mode": "FT8",
+        "rst_sent": -2,
+        "rst_rcvd": -18,
+        "qso_date": "2024-10-04",
+        "time_on": "05:45:45",
+        "qso_date_off": "2024-10-04",
+        "time_off": "0546-04-04",
+        "band": "15m",
+        "freq": 21.075662,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -02  Rcvd: -18  Distance: "
+    }
+]

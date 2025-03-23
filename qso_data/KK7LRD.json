@@ -1,0 +1,18 @@
+[
+    {
+        "call": "KK7LRD",
+        "gridsquare": "DN62",
+        "mode": "FT8",
+        "rst_sent": -15,
+        "rst_rcvd": -4,
+        "qso_date": "2024-09-13",
+        "time_on": "22:26:00",
+        "qso_date_off": "2024-09-13",
+        "time_off": "2233-05-09",
+        "band": "20m",
+        "freq": 14.076,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -15  Rcvd: -04  Distance: 864 mi"
+    }
+]

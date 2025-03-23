@@ -1,0 +1,18 @@
+[
+    {
+        "call": "CE6SD",
+        "gridsquare": "FF32",
+        "mode": "FT8",
+        "rst_sent": -15,
+        "rst_rcvd": -18,
+        "qso_date": "2024-09-14",
+        "time_on": "00:52:00",
+        "qso_date_off": "2024-09-14",
+        "time_off": "0053-01-04",
+        "band": "20m",
+        "freq": 14.075776,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -15  Rcvd: -18  Distance: 6058 mi"
+    }
+]

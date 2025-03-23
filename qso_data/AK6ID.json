@@ -1,0 +1,18 @@
+[
+    {
+        "call": "AK6ID",
+        "gridsquare": "DM03",
+        "mode": "FT8",
+        "rst_sent": 0,
+        "rst_rcvd": -15,
+        "qso_date": "2024-10-16",
+        "time_on": "07:07:48",
+        "qso_date_off": "2024-10-16",
+        "time_off": "0708-05-09",
+        "band": "40m",
+        "freq": 7.075354,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: +00  Rcvd: -15  Distance: 348 mi"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "call": "K6IRK",
+        "gridsquare": "CM98",
+        "mode": "FT8",
+        "rst_sent": -14,
+        "rst_rcvd": -17,
+        "qso_date": "2025-03-11",
+        "time_on": "07:31:30",
+        "qso_date_off": "2025-03-11",
+        "time_off": "0732-02-09",
+        "band": "80m",
+        "freq": 3.574309,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -14  Rcvd: -17  Distance: 78 mi"
+    }
+]

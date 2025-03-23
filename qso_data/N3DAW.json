@@ -1,0 +1,18 @@
+[
+    {
+        "call": "N3DAW",
+        "gridsquare": "FN31",
+        "mode": "FT8",
+        "rst_sent": -8,
+        "rst_rcvd": -13,
+        "qso_date": "2024-09-01",
+        "time_on": "06:58:45",
+        "qso_date_off": "2024-09-01",
+        "time_off": "0659-04-04",
+        "band": "40m",
+        "freq": 7.07599,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -08  Rcvd: -13  Distance: 2599 mi"
+    }
+]

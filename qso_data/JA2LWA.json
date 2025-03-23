@@ -1,0 +1,18 @@
+[
+    {
+        "call": "JA2LWA",
+        "gridsquare": "PM85",
+        "mode": "FT8",
+        "rst_sent": -14,
+        "rst_rcvd": -17,
+        "qso_date": "2024-08-19",
+        "time_on": "05:23:00",
+        "qso_date_off": "2024-08-19",
+        "time_off": "0523-05-09",
+        "band": "15m",
+        "freq": 21.074777,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -14  Rcvd: -17  Distance: 5292 mi"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "call": "WA4BRX",
+        "gridsquare": "BL11",
+        "mode": "FT8",
+        "rst_sent": -23,
+        "rst_rcvd": -7,
+        "qso_date": "2024-07-14",
+        "time_on": "22:10:45",
+        "qso_date_off": "2024-07-14",
+        "time_off": "2211-05-09",
+        "band": "10m",
+        "freq": 28.075333,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vu",
+        "comment": "FT8  Sent: -23  Rcvd: -07  Distance: 2360 mi"
+    }
+]

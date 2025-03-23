@@ -1,0 +1,34 @@
+[
+    {
+        "call": "JF8CFI",
+        "gridsquare": "QN23",
+        "mode": "FT8",
+        "rst_sent": -4,
+        "rst_rcvd": -20,
+        "qso_date": "2024-08-31",
+        "time_on": "21:13:15",
+        "qso_date_off": "2024-08-31",
+        "time_off": "2115-01-04",
+        "band": "15m",
+        "freq": 21.075007,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -04  Rcvd: -20  Distance: 4629 mi"
+    },
+    {
+        "call": "JF8CFI",
+        "gridsquare": "QN23",
+        "mode": "FT8",
+        "rst_sent": -13,
+        "rst_rcvd": -7,
+        "qso_date": "2025-03-15",
+        "time_on": "22:57:05",
+        "qso_date_off": "2025-03-15",
+        "time_off": "2258-01-04",
+        "band": "10m",
+        "freq": 28.075386,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -13  Rcvd: -07  Distance: 4629 mi"
+    }
+]

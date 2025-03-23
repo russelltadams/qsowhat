@@ -1,0 +1,41 @@
+<div class="max-w-md mx-auto bg-white rounded-lg shadow-md p-6">
+  <h2 class="text-2xl font-semibold text-blue-600 mb-4">QSO Details</h2>
+  <div class="grid grid-cols-2 gap-4">
+    <div>
+      <p class="text-gray-700 font-medium">Callsign:</p>
+      <p id="callsign" class="text-gray-900">{{ qso.get('call', 'N/A') }}</p>
+    </div>
+    <div>
+      <p class="text-gray-700 font-medium">Date:</p>
+      <p id="date" class="text-gray-900">{{ qso.get('qso_date', 'N/A') }}</p>
+    </div>
+    <div>
+      <p class="text-gray-700 font-medium">Time:</p>
+      <p id="time" class="text-gray-900">{{ qso.get('time_on', 'N/A') }}</p>
+    </div>
+    <div>
+      <p class="text-gray-700 font-medium">Frequency:</p>
+      <p id="frequency" class="text-gray-900">{{ qso.get('freq', 'N/A') }}</p>
+    </div>
+    <div>
+      <p class="text-gray-700 font-medium">Band:</p>
+      <p id="band" class="text-gray-900">{{ qso.get('band', 'N/A') }}</p>
+    </div>
+    <div>
+      <p class="text-gray-700 font-medium">Mode:</p>
+      <p id="mode" class="text-gray-900">{{ qso.get('mode', 'N/A') }}</p>
+    </div>
+    <div>
+      <p class="text-gray-700 font-medium">RST Sent:</p>
+      <p id="rst_sent" class="text-gray-900">{{ qso.get('rst_sent', 'N/A') }}</p>
+    </div>
+    <div>
+      <p class="text-gray-700 font-medium">RST Received:</p>
+      <p id="rst_rcvd" class="text-gray-900">{{ qso.get('rst_rcvd', 'N/A') }}</p>
+    </div>
+    <div>
+      <p class="text-gray-700 font-medium">Gridsquare:</p>
+      <p id="gridsquare" class="text-gray-900">{{ qso.get('gridsquare', 'N/A') }}</p>
+    </div>
+  </div>
+</div>

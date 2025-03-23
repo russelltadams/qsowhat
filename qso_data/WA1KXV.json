@@ -1,0 +1,18 @@
+[
+    {
+        "call": "WA1KXV",
+        "gridsquare": "CM99",
+        "mode": "FT8",
+        "rst_sent": -16,
+        "rst_rcvd": -23,
+        "qso_date": "2024-10-16",
+        "time_on": "07:43:00",
+        "qso_date_off": "2024-10-16",
+        "time_off": "0743-05-09",
+        "band": "40m",
+        "freq": 7.075853,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -16  Rcvd: -23  Distance: 131 mi"
+    }
+]

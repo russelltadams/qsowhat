@@ -1,0 +1,18 @@
+[
+    {
+        "call": "VA7JH",
+        "gridsquare": "CO70",
+        "mode": "FT8",
+        "rst_sent": -10,
+        "rst_rcvd": -5,
+        "qso_date": "2024-07-13",
+        "time_on": "21:24:00",
+        "qso_date_off": "2024-07-13",
+        "time_off": "2125-01-04",
+        "band": "10m",
+        "freq": 28.075776,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vu",
+        "comment": "FT8  Sent: -10  Rcvd: -05  Distance: 883 mi"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "call": "WL7E",
+        "gridsquare": "BP40",
+        "mode": "FT8",
+        "rst_sent": -12,
+        "rst_rcvd": -15,
+        "qso_date": "2024-10-20",
+        "time_on": "06:14:00",
+        "qso_date_off": "2024-10-20",
+        "time_off": "0615-01-04",
+        "band": "30m",
+        "freq": 10.137651,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -12  Rcvd: -15  Distance: 2007 mi"
+    }
+]

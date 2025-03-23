@@ -1,0 +1,18 @@
+[
+    {
+        "call": "KM7H",
+        "gridsquare": "DN08",
+        "mode": "FT8",
+        "rst_sent": -13,
+        "rst_rcvd": 9,
+        "qso_date": "2024-10-15",
+        "time_on": "16:49:30",
+        "qso_date_off": "2024-10-15",
+        "time_off": "1650-05-09",
+        "band": "20m",
+        "freq": 14.075655,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -13  Rcvd: +09  Distance: 753 mi"
+    }
+]

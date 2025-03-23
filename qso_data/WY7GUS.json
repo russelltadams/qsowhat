@@ -1,0 +1,18 @@
+[
+    {
+        "call": "WY7GUS",
+        "gridsquare": "DN44",
+        "mode": "FT8",
+        "rst_sent": -5,
+        "rst_rcvd": -8,
+        "qso_date": "2024-10-16",
+        "time_on": "06:51:45",
+        "qso_date_off": "2024-10-16",
+        "time_off": "0652-05-09",
+        "band": "40m",
+        "freq": 7.075354,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -05  Rcvd: -08  Distance: 741 mi"
+    }
+]

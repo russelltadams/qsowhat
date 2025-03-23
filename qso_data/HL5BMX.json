@@ -1,0 +1,18 @@
+[
+    {
+        "call": "HL5BMX",
+        "gridsquare": "PM45",
+        "mode": "FT8",
+        "rst_sent": -22,
+        "rst_rcvd": -19,
+        "qso_date": "2024-10-05",
+        "time_on": "08:47:00",
+        "qso_date_off": "2024-10-05",
+        "time_off": "0848-04-04",
+        "band": "40m",
+        "freq": 7.075245,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -22  Rcvd: -19  Distance: 5643 mi"
+    }
+]

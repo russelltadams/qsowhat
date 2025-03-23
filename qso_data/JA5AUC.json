@@ -1,0 +1,18 @@
+[
+    {
+        "call": "JA5AUC",
+        "gridsquare": "PM63",
+        "mode": "FT8",
+        "rst_sent": -19,
+        "rst_rcvd": -17,
+        "qso_date": "2024-07-16",
+        "time_on": "21:31:00",
+        "qso_date_off": "2024-07-16",
+        "time_off": "2132-01-04",
+        "band": "10m",
+        "freq": 28.074777,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vu",
+        "comment": "FT8  Sent: -19  Rcvd: -17  Distance: 5555 mi"
+    }
+]

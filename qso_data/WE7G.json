@@ -1,0 +1,34 @@
+[
+    {
+        "call": "WE7G",
+        "gridsquare": "DM35",
+        "mode": "FT8",
+        "rst_sent": -8,
+        "rst_rcvd": -12,
+        "qso_date": "2024-07-16",
+        "time_on": "19:36:15",
+        "qso_date_off": "2024-07-16",
+        "time_off": "1937-01-04",
+        "band": "10m",
+        "freq": 28.074999,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vu",
+        "comment": "FT8  Sent: -08  Rcvd: -12  Distance: 535 mi"
+    },
+    {
+        "call": "WE7G",
+        "gridsquare": "DM35",
+        "mode": "FT8",
+        "rst_sent": -9,
+        "rst_rcvd": -12,
+        "qso_date": "2024-10-04",
+        "time_on": "05:20:00",
+        "qso_date_off": "2024-10-04",
+        "time_off": "0520-05-09",
+        "band": "40m",
+        "freq": 7.075662,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -09  Rcvd: -12  Distance: 534 mi"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "call": "WB7CYO",
+        "gridsquare": "DN22",
+        "mode": "FT8",
+        "rst_sent": -8,
+        "rst_rcvd": 5,
+        "qso_date": "2025-02-28",
+        "time_on": "22:49:30",
+        "qso_date_off": "2025-02-28",
+        "time_off": "2250-02-09",
+        "band": "20m",
+        "freq": 14.076003,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -08  Rcvd: +05  Distance: 497 mi"
+    }
+]

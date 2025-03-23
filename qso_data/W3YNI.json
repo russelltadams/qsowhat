@@ -1,0 +1,18 @@
+[
+    {
+        "call": "W3YNI",
+        "gridsquare": "FN00",
+        "mode": "FT8",
+        "rst_sent": -10,
+        "rst_rcvd": -14,
+        "qso_date": "2024-10-20",
+        "time_on": "05:44:45",
+        "qso_date_off": "2024-10-20",
+        "time_off": "0545-05-09",
+        "band": "30m",
+        "freq": 10.137651,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -10  Rcvd: -14  Distance: 2303 mi"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "call": "JF2GDP",
+        "gridsquare": "PM86",
+        "mode": "FT8",
+        "rst_sent": -12,
+        "rst_rcvd": -23,
+        "qso_date": "2024-09-03",
+        "time_on": "07:07:00",
+        "qso_date_off": "2024-09-03",
+        "time_off": "0707-05-09",
+        "band": "20m",
+        "freq": 14.075658,
+        "station_callsign": "KM6KFX",
+        "my_gridsquare": "CM87vt",
+        "comment": "FT8  Sent: -12  Rcvd: -23  Distance: 5250 mi"
+    }
+]
