@@ -13,6 +13,6 @@
        
 3.  **Run the app:**
  
-        python app.py
+        python web_app.py
        
 
